@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: "http://103.226.139.41:5000/api/v1"
+    baseURL: "https://api.sigit.studentdumbways.my.id/api/v1"
 });
 
 const setAuthToken = (token) => {
