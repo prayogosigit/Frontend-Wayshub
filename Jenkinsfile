@@ -1,4 +1,4 @@
-def secret = 'server'
+def secret = 'Server'
 def server = 'app-sigit1@103.172.205.236'
 def directory = 'Frontend-Wayshub'
 def branch = 'main'
